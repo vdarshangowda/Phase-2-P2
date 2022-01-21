@@ -1,0 +1,7 @@
+Log Records
+
+1)This is a node.js application which uses readline-sync and fs node.js packages.
+
+2)Logging the records by the user when node LogRecord.js command is compiled.
+
+3)Divide by zero will get error.
